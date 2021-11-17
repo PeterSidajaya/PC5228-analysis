@@ -1,4 +1,4 @@
-Access link: https://mybinder.org/v2/gh/PeterSidajaya/PC5228-analysis/main
+Use the access link to open the repo in Jupyter notebook interface. Access link: https://mybinder.org/v2/gh/PeterSidajaya/PC5228-analysis/main
 
 # Mach-Zehnder Assignment for PC5228 AY2021/2022 #
 
